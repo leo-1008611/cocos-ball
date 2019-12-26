@@ -1,0 +1,803 @@
+2019-12-24T02:36:22.221Z - normal: Load ~/.CocosCreator/settings.json
+2019-12-24T02:36:22.298Z - normal: Initializing Asset Database
+2019-12-24T02:36:22.301Z - normal: checking language setting...
+2019-12-24T02:36:22.301Z - normal: Language: zh
+2019-12-24T02:36:23.214Z - success: preview server running at http://localhost:7456
+2019-12-24T02:36:23.282Z - success: protocol editor-framework registered
+2019-12-24T02:36:23.282Z - success: protocol app registered
+2019-12-24T02:36:23.282Z - success: protocol theme registered
+2019-12-24T02:36:23.282Z - success: protocol packages registered
+2019-12-24T02:36:23.282Z - success: protocol uuid registerred
+2019-12-24T02:36:23.282Z - success: protocol db registerred
+2019-12-24T02:36:23.282Z - success: protocol thumbnail registerred
+2019-12-24T02:36:23.282Z - success: protocol unpack registerred
+2019-12-24T02:36:23.282Z - success: protocol disable-commonjs registerred
+2019-12-24T02:36:23.499Z - normal: connected!
+2019-12-24T02:36:23.501Z - normal: Check project /Users/aaron/Documents/doc/cocos2/start_project
+2019-12-24T02:36:23.503Z - normal: Initializing project /Users/aaron/Documents/doc/cocos2/start_project
+2019-12-24T02:36:23.869Z - normal: Initializing Cocos2d
+2019-12-24T02:36:25.120Z - normal: Initializing engine extends
+2019-12-24T02:36:25.272Z - success: alipay-adapter loaded
+2019-12-24T02:36:25.368Z - success: asset-db-debugger loaded
+2019-12-24T02:36:25.370Z - success: baidu-adapter loaded
+2019-12-24T02:36:25.375Z - success: color-picker loaded
+2019-12-24T02:36:25.554Z - success: fb-audience-network loaded
+2019-12-24T02:36:25.616Z - success: fb-live-stream loaded
+2019-12-24T02:36:25.633Z - success: google-play-instant loaded
+2019-12-24T02:36:25.687Z - success: huawei-runtime loaded
+2019-12-24T02:36:25.980Z - success: cpk-publish loaded
+2019-12-24T02:36:25.982Z - success: jsb-adapter loaded
+2019-12-24T02:36:25.991Z - success: oppo-runtime loaded
+2019-12-24T02:36:26.012Z - success: package-manager loaded
+2019-12-24T02:36:26.195Z - success: qqplay-adapter loaded
+2019-12-24T02:36:26.197Z - success: runtime-dev-tools loaded
+2019-12-24T02:36:26.226Z - success: sdkbox loaded
+2019-12-24T02:36:26.244Z - success: tester loaded
+2019-12-24T02:36:26.259Z - success: ui-kit-preview-extra loaded
+2019-12-24T02:36:26.272Z - success: ui-kit-preview loaded
+2019-12-24T02:36:26.284Z - success: ui-kit loaded
+2019-12-24T02:36:26.290Z - success: vivo-runtime loaded
+2019-12-24T02:36:26.291Z - success: weapp-adapter loaded
+2019-12-24T02:36:26.293Z - success: xiaomi-adapter loaded
+2019-12-24T02:36:26.296Z - success: alipay-minigame loaded
+2019-12-24T02:36:26.349Z - success: assets loaded
+2019-12-24T02:36:26.364Z - success: builder loaded
+2019-12-24T02:36:26.598Z - success: cocos-services loaded
+2019-12-24T02:36:26.615Z - success: console loaded
+2019-12-24T02:36:26.646Z - success: fb-instant-games loaded
+2019-12-24T02:36:26.661Z - success: game-window loaded
+2019-12-24T02:36:26.663Z - success: google-instant-games loaded
+2019-12-24T02:36:26.677Z - success: hierarchy loaded
+2019-12-24T02:36:26.693Z - success: inspector loaded
+2019-12-24T02:36:26.694Z - success: keystore loaded
+2019-12-24T02:36:26.710Z - success: node-library loaded
+2019-12-24T02:36:26.711Z - success: package-asset loaded
+2019-12-24T02:36:26.713Z - success: preferences loaded
+2019-12-24T02:36:26.726Z - success: project-exporter loaded
+2019-12-24T02:36:26.740Z - success: project-importer loaded
+2019-12-24T02:36:26.753Z - success: project-settings loaded
+2019-12-24T02:36:26.768Z - success: scene loaded
+2019-12-24T02:36:26.769Z - success: simulator-debugger loaded
+2019-12-24T02:36:26.770Z - success: sprite-editor loaded
+2019-12-24T02:36:26.783Z - success: store loaded
+2019-12-24T02:36:26.799Z - success: timeline loaded
+2019-12-24T02:36:26.803Z - success: xiaomi-runtime loaded
+2019-12-24T02:36:27.785Z - normal: Loading packages
+2019-12-24T02:36:27.790Z - normal: Watching packages
+2019-12-24T02:36:27.894Z - normal: Run Application
+2019-12-24T02:36:28.925Z - info: Cocos Services load base data!
+2019-12-24T02:37:37.121Z - success: API data generated and copied to /Users/aaron/Documents/doc/cocos2/start_project/creator.d.ts
+2019-12-24T02:37:44.927Z - success: VS Code extension installed to /Users/aaron/.vscode/extensions
+2019-12-24T02:38:27.266Z - info: 只有预制节点 "star" 及其子节点会被保存。
+2019-12-24T09:09:00.878Z - success: VS Code extension installed to /Users/aaron/.vscode/extensions
+2019-12-24T09:09:05.308Z - success: API data generated and copied to /Users/aaron/Documents/doc/cocos2/start_project/creator.d.ts
+2019-12-24T09:23:15.324Z - warn: The Asset used by node "star" in prefab "star.prefab" is missing. Detailed information:
+Node path: "star"
+Asset url: "db://assets/star.prefab"
+Missing uuid: "43c062b6-d3bf-44d5-bd7f-7e001deca4ae"
+
+2019-12-24T09:24:22.697Z - warn: The Asset used by node "star" in prefab "star.prefab" is missing. Detailed information:
+Node path: "star"
+Asset url: "db://assets/star.prefab"
+Missing uuid: "43c062b6-d3bf-44d5-bd7f-7e001deca4ae"
+
+2019-12-24T09:24:28.743Z - warn: The Asset used by node "star" in prefab "star.prefab" is missing. Detailed information:
+Node path: "star"
+Asset url: "db://assets/star.prefab"
+Missing uuid: "43c062b6-d3bf-44d5-bd7f-7e001deca4ae"
+
+2019-12-24T09:24:28.841Z - warn: The Asset used by node "star" in prefab "star.prefab" is missing. Detailed information:
+Node path: "star"
+Asset url: "db://assets/star.prefab"
+Missing uuid: "43c062b6-d3bf-44d5-bd7f-7e001deca4ae"
+
+2019-12-24T09:24:30.141Z - warn: The Asset used by node "star" in prefab "star.prefab" is missing. Detailed information:
+Node path: "star"
+Asset url: "db://assets/star.prefab"
+Missing uuid: "43c062b6-d3bf-44d5-bd7f-7e001deca4ae"
+
+2019-12-24T09:24:30.538Z - warn: The Asset used by node "star" in prefab "star.prefab" is missing. Detailed information:
+Node path: "star"
+Asset url: "db://assets/star.prefab"
+Missing uuid: "43c062b6-d3bf-44d5-bd7f-7e001deca4ae"
+
+2019-12-24T09:24:45.255Z - info: 只有预制节点 "Star" 及其子节点会被保存。
+2019-12-24T09:25:37.040Z - info: 只有预制节点 "star" 及其子节点会被保存。
+2019-12-24T09:33:27.669Z - warn: [db-task][sync-changes] Backup unused meta file: db://assets/scripts/Star.js.meta
+2019-12-24T09:33:31.109Z - warn: Script attached to "star" in prefab "star.prefab" is missing or invalid. Detailed information:
+Node path: "star"
+Asset url: "db://assets/star.prefab"
+Script UUID: "bacb3190-34d2-4718-817a-84336edefc45"
+Class ID: "bacb3GQNNJHGIF6hDNu3vxF"
+
+2019-12-26T03:14:12.850Z - warn: reference node is destroyed
+2019-12-26T03:14:12.855Z - warn: reference node is destroyed
+2019-12-26T03:14:12.856Z - warn: reference node is destroyed
+2019-12-26T03:14:12.856Z - warn: reference node is destroyed
+2019-12-26T03:14:12.856Z - warn: reference node is destroyed
+2019-12-26T03:14:12.856Z - warn: reference node is destroyed
+2019-12-26T06:23:41.390Z - normal: Simulator: WORKAREA WIDTH 1440.00, HEIGHT 855.00
+2019-12-26T06:23:41.400Z - normal: Simulator: FRAME SCALE = 1.00
+2019-12-26T06:23:42.532Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2019-12-26T06:23:42.534Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2019-12-26T06:23:42.534Z - normal: Simulator: 
+2019-12-26T06:23:42.535Z - normal: Simulator: {
+2019-12-26T06:23:42.535Z - normal: Simulator: 	build_type: DEBUG
+2019-12-26T06:23:42.536Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2019-12-26T06:23:42.536Z - normal: Simulator: 	gl.supports_PVRTC: false
+2019-12-26T06:23:42.537Z - normal: Simulator: 	gl.renderer: Intel(R) Iris(TM) Graphics 650
+2019-12-26T06:23:42.537Z - normal: Simulator: 	gl.supports_ATITC: false
+2019-12-26T06:23:42.538Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2019-12-26T06:23:42.538Z - normal: Simulator: 	gl.supports_NPOT: true
+2019-12-26T06:23:42.538Z - normal: Simulator: 	gl.max_texture_units: 16
+2019-12-26T06:23:42.539Z - normal: Simulator: 	gl.supports_ETC1: false
+2019-12-26T06:23:42.545Z - normal: Simulator: 	gl.max_texture_size: 16384
+2019-12-26T06:23:42.554Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2019-12-26T06:23:42.557Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2019-12-26T06:23:42.557Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2019-12-26T06:23:42.558Z - normal: Simulator: 	compiled_with_gl_state_cache: true
+2019-12-26T06:23:42.560Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2019-12-26T06:23:42.561Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.36.19
+2019-12-26T06:23:42.562Z - normal: Simulator: 	gl.supports_S3TC: true
+2019-12-26T06:23:42.562Z - normal: Simulator: 	compiled_with_profiler: false
+2019-12-26T06:23:42.563Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2019-12-26T06:23:42.563Z - normal: Simulator: }
+2019-12-26T06:23:42.563Z - normal: Simulator: Project Config:
+2019-12-26T06:23:42.563Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2019-12-26T06:23:42.564Z - normal: Simulator:     writable path: $(PROJDIR)/
+2019-12-26T06:23:42.564Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2019-12-26T06:23:42.564Z - normal: Simulator:     frame size: 960 x 640
+2019-12-26T06:23:42.565Z - normal: Simulator:     frame scale: 1.00
+2019-12-26T06:23:42.566Z - normal: Simulator:     show console: NO
+2019-12-26T06:23:42.567Z - normal: Simulator:     write debug log: NO ()
+2019-12-26T06:23:42.568Z - normal: Simulator:     listen: 
+2019-12-26T06:23:42.568Z - normal: Simulator:     debugger: none
+2019-12-26T06:23:42.569Z - normal: Simulator:     add searching path:
+2019-12-26T06:23:42.865Z - normal: Simulator: resetDesignResolution request
+2019-12-26T06:23:42.865Z - normal: Simulator: ------------------------------------------------
+2019-12-26T06:23:42.865Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2019-12-26T06:23:42.865Z - normal: Simulator: ------------------------------------------------
+2019-12-26T06:23:42.866Z - normal: Simulator: Initializing V8, version: 7.5.288.22
+2019-12-26T06:23:42.921Z - normal: Simulator: libuv version: 1.23.1-dev
+2019-12-26T06:23:42.922Z - normal: Simulator: Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2019-12-26T06:23:42.948Z - normal: Simulator: For help see https://nodejs.org/en/docs/inspector
+2019-12-26T06:23:43.013Z - normal: Simulator: JS: Enable batch GL commands optimization!
+2019-12-26T06:23:43.013Z - normal: Simulator: resetDesignResolution request
+2019-12-26T06:23:43.013Z - normal: Simulator: ------------------------------------------------
+2019-12-26T06:23:43.014Z - normal: Simulator: LOAD Js FILE: main.js
+2019-12-26T06:23:43.014Z - normal: Simulator: ------------------------------------------------
+2019-12-26T06:23:44.804Z - normal: Simulator: iShow!
+2019-12-26T06:23:46.041Z - normal: Simulator: glGetIntegerv: pname: 0x8b4c
+2019-12-26T06:23:46.188Z - normal: Simulator: JS: Cocos Creator v2.1.4
+2019-12-26T06:23:46.267Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+2019-12-26T06:23:46.453Z - normal: Simulator: JS: [ERROR]: Callback of event must be non-nil
+2019-12-26T06:24:22.746Z - normal: Simulator: I/AudioEngine-inl.mm (358): OpenAL was initialized successfully!
+2019-12-26T06:24:22.746Z - normal: Simulator: V/AudioCache (227):   id=1 _pcmData alloc: 0x7fe639155800
+2019-12-26T06:24:22.748Z - normal: Simulator: V/AudioCache (264): pcm buffer was loaded successfully, total frames: 8117, total read frames: 8117, adjust frames: 0, remainingFrames: 0
+2019-12-26T06:24:22.748Z - normal: Simulator: V/AudioCache (273):   id=1 generated alGenBuffers: 2425  for _pcmData: 0x7fe639155800
+2019-12-26T06:24:22.749Z - normal: Simulator: V/AudioCache (274):   id=1 _pcmData alBufferData: 0x7fe639155800
+2019-12-26T06:24:22.749Z - normal: Simulator: V/AudioCache (227):   id=2 _pcmData alloc: 0x7fe638a02a00
+2019-12-26T06:24:22.749Z - normal: Simulator: V/AudioCache (264): pcm buffer was loaded successfully, total frames: 25384, total read frames: 25384, adjust frames: 0, remainingFrames: 0
+2019-12-26T06:24:22.750Z - normal: Simulator: V/AudioCache (273):   id=2 generated alGenBuffers: 2430  for _pcmData: 0x7fe638a02a00
+2019-12-26T06:24:22.750Z - normal: Simulator: V/AudioCache (274):   id=2 _pcmData alBufferData: 0x7fe638a02a00
+2019-12-26T06:24:22.751Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:22.762Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:22.791Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:22.815Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:22.824Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:22.841Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:22.871Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:22.888Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:22.905Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:22.923Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:22.938Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:22.955Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:22.972Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:22.989Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:23.006Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:23.024Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:23.041Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:23.056Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:23.071Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:23.088Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:23.106Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:23.122Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:23.140Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:23.158Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:23.172Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:23.188Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:23.205Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:23.222Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:23.238Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:23.256Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:23.271Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:23.290Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:23.305Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:23.323Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:23.339Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:23.355Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:23.378Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:23.390Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:23.407Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:23.425Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:23.443Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:23.456Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:23.474Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:23.489Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:23.506Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:23.523Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:23.540Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:23.556Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:23.573Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:23.594Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:23.608Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:23.623Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:23.639Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:23.656Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:23.673Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:23.697Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:23.717Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:23.728Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:23.742Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:23.757Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:23.774Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:23.792Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:23.809Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:23.826Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:23.845Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:23.857Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:23.874Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:23.894Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:23.909Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:23.924Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:23.941Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:23.957Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:23.974Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:23.995Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:24.008Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:24.025Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:24.045Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:24.059Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:24.075Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:24.092Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:24.108Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:24.125Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:24.142Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:24.159Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:24.176Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:24.191Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:24.210Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:24.226Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:24.244Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:24.261Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:24.276Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:24.293Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:24.309Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:24.326Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:24.343Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:24.362Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:24.377Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:24.393Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:24.411Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:24.427Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:24.444Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:24.459Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:24.477Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:24.493Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:24.510Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:24.528Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:24.544Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:24.560Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:24.577Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:24.596Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:24.611Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:24.627Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:24.648Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:24.662Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:24.678Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:24.696Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:24.711Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:24.728Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:24.745Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:24.760Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:24.777Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:24.795Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:24.811Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:24.828Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:24.844Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:24.860Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:24.877Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:24.894Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:24.911Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:24.928Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:24.945Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:24.961Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:24.977Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:24.994Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:25.011Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:25.029Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:25.045Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:25.062Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:25.079Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:25.094Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:25.111Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:25.127Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:25.144Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:25.161Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:25.178Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:25.195Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:25.211Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:25.228Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:25.244Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:25.261Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:25.278Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:25.295Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:25.312Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:25.329Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:25.345Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:25.362Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:25.378Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:25.395Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:25.412Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:25.428Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:25.445Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:25.462Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:25.480Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:25.495Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:25.512Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:25.528Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:25.545Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:25.563Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:25.581Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:25.596Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:25.612Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:25.629Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:25.647Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:25.662Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:25.682Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:25.696Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:25.714Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:25.730Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:25.747Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:25.768Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:25.785Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:25.796Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:25.812Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:25.830Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:25.845Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:46.782Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:46.803Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:46.831Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:46.847Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:46.865Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:46.882Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:46.916Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:46.932Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:46.949Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:46.965Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:46.999Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:47.014Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:47.031Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:47.048Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:47.081Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:47.106Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:47.115Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:47.133Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:47.164Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:47.180Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:47.198Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:47.213Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:47.248Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:47.265Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:47.281Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:47.298Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:47.315Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:47.332Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:47.352Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:47.366Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:47.383Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:47.399Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:47.415Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:47.431Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:47.448Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:47.465Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:47.483Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:47.498Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:47.515Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:47.532Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:47.549Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:47.569Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:47.582Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:47.604Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:47.615Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:47.633Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:47.650Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:47.665Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:47.683Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:47.699Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:47.715Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:47.732Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:47.749Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:47.765Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:47.784Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:47.799Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:47.815Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:47.832Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:47.849Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:47.866Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:47.882Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:47.899Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:47.916Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:47.933Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:47.949Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:47.967Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:47.986Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:48.002Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:48.016Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:48.033Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:48.050Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:48.067Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:48.083Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:48.106Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:48.117Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:48.133Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:48.150Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:48.166Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:48.183Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:48.200Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:48.217Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:48.235Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:48.250Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:48.267Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:48.284Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:48.300Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:48.317Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:48.334Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:48.351Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:48.368Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:48.385Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:48.400Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:48.417Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:48.436Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:48.451Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:48.468Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:48.485Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:48.502Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:48.518Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:48.535Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:48.552Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:48.569Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:48.586Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:48.605Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:48.619Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:48.636Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:48.654Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:48.669Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:48.687Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:48.702Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:48.719Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:48.736Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:48.753Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:48.770Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:48.787Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:48.803Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:48.820Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:48.836Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:48.853Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:48.871Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:48.887Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:48.903Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:48.920Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:48.937Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:48.954Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:48.971Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:48.987Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:49.004Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:49.021Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:49.037Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:49.054Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:49.071Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:49.088Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:49.105Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:49.121Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:49.137Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:49.154Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:49.171Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:49.187Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:49.204Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:49.224Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:49.237Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:49.255Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:49.271Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:49.290Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:49.305Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:49.321Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:49.338Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:49.354Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:49.371Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:49.388Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:49.404Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:49.421Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:49.438Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:49.454Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:49.471Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:49.491Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:49.505Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:49.528Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:49.537Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:49.554Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:49.571Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:49.588Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:49.606Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:49.621Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:49.638Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:49.654Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:49.671Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:49.688Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:49.704Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:49.722Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:49.739Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:49.756Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:49.772Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:49.789Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:49.806Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:49.823Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:49.844Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:49.857Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:49.874Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:49.890Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:49.907Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:49.924Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:49.942Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:49.960Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:49.974Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:49.992Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:50.009Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:50.025Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:50.043Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:50.058Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:50.076Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:50.093Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:50.112Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:50.131Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:50.145Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:50.159Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:50.178Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:50.193Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:50.209Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:50.227Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:50.244Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:50.260Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:50.276Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:50.293Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:50.310Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:50.327Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:50.343Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:50.360Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:50.377Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:50.397Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:50.411Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:50.427Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:50.447Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:50.461Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:50.477Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:50.494Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:50.510Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:50.527Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:50.544Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:50.560Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:50.577Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:50.594Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:50.614Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:50.628Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:50.646Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:50.662Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:50.677Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:50.694Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:50.710Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:50.727Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:50.744Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:50.763Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:50.777Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:50.794Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:50.810Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:50.836Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:50.845Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:50.861Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:50.878Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:50.895Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:50.912Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:50.929Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:50.948Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:50.963Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:50.984Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:50.998Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:51.018Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:51.036Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:51.051Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:51.068Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:51.080Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:51.097Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:51.114Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:51.130Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:51.147Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:51.164Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:51.180Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:51.197Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:51.214Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:51.233Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:51.248Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:51.265Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:51.283Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:51.301Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:51.318Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:51.334Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:51.350Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:51.367Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:51.383Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:51.401Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:51.416Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:51.433Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:51.450Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:51.466Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:51.482Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:51.500Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:51.516Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:51.533Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:51.550Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:51.567Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:51.583Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:51.608Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:51.619Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:51.635Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:51.650Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:51.666Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:51.685Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:51.700Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:51.716Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:51.733Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:51.749Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:51.767Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:51.783Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:51.804Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:51.816Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:51.835Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:51.850Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:51.866Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:51.883Z - normal: Simulator: JS: [WARN]: object already destroyed
+2019-12-26T06:24:53.567Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2019-12-26T06:24:53.567Z - normal: Simulator: GC begin ..., (js->native map) size: 93, all objects: 180
+2019-12-26T06:24:53.634Z - normal: Simulator: GC end ..., (js->native map) size: 54, all objects: 141
+2019-12-26T06:24:53.638Z - normal: Simulator: GC begin ..., (js->native map) size: 54, all objects: 141
+2019-12-26T06:24:53.666Z - normal: Simulator: GC end ..., (js->native map) size: 54, all objects: 141
+2019-12-26T06:24:53.668Z - normal: Simulator: Destroy WebGLTexture (25) by GC
+2019-12-26T06:24:53.668Z - normal: Simulator: Destroy WebGLTexture (24) by GC
+2019-12-26T06:24:53.668Z - normal: Simulator: Destroy WebGLTexture (23) by GC
+2019-12-26T06:24:53.669Z - normal: Simulator: Destroy WebGLTexture (18) by GC
+2019-12-26T06:24:53.670Z - normal: Simulator: Destroy WebGLTexture (21) by GC
+2019-12-26T06:24:53.670Z - normal: Simulator: Destroy WebGLTexture (26) by GC
+2019-12-26T06:24:53.670Z - normal: Simulator: Destroy WebGLTexture (8) by GC
+2019-12-26T06:24:53.670Z - normal: Simulator: Destroy WebGLTexture (17) by GC
+2019-12-26T06:24:53.671Z - normal: Simulator: Destroy WebGLTexture (16) by GC
+2019-12-26T06:24:53.671Z - normal: Simulator: Destroy WebGLTexture (3) by GC
+2019-12-26T06:24:53.672Z - normal: Simulator: Destroy WebGLTexture (15) by GC
+2019-12-26T06:24:53.672Z - normal: Simulator: Destroy WebGLTexture (14) by GC
+2019-12-26T06:24:53.674Z - normal: Simulator: Destroy WebGLFramebuffer (1) by GC
+2019-12-26T06:24:53.674Z - normal: Simulator: Destroy WebGLTexture (13) by GC
+2019-12-26T06:24:53.674Z - normal: Simulator: Destroy WebGLTexture (22) by GC
+2019-12-26T06:24:53.674Z - normal: Simulator: Destroy WebGLTexture (11) by GC
+2019-12-26T06:24:53.675Z - normal: Simulator: Destroy WebGLBuffer (4) by GC
+2019-12-26T06:24:53.675Z - normal: Simulator: Destroy WebGLTexture (5) by GC
+2019-12-26T06:24:53.675Z - normal: Simulator: Destroy WebGLBuffer (5) by GC
+2019-12-26T06:24:53.675Z - normal: Simulator: Destroy WebGLProgram (3) by GC
+2019-12-26T06:24:53.676Z - normal: Simulator: Destroy WebGLTexture (7) by GC
+2019-12-26T06:24:53.676Z - normal: Simulator: Destroy WebGLBuffer (7) by GC
+2019-12-26T06:24:53.676Z - normal: Simulator: Destroy WebGLTexture (6) by GC
+2019-12-26T06:24:53.676Z - normal: Simulator: Destroy WebGLTexture (2) by GC
+2019-12-26T06:24:53.677Z - normal: Simulator: Destroy WebGLBuffer (8) by GC
+2019-12-26T06:24:53.677Z - normal: Simulator: Destroy WebGLTexture (12) by GC
+2019-12-26T06:24:53.677Z - normal: Simulator: Destroy WebGLBuffer (3) by GC
+2019-12-26T06:24:53.678Z - normal: Simulator: Destroy WebGLTexture (4) by GC
+2019-12-26T06:24:53.678Z - normal: Simulator: Destroy WebGLTexture (19) by GC
+2019-12-26T06:24:53.678Z - normal: Simulator: Destroy WebGLTexture (1) by GC
+2019-12-26T06:24:53.679Z - normal: Simulator: Destroy WebGLBuffer (2) by GC
+2019-12-26T06:24:53.679Z - normal: Simulator: Destroy WebGLTexture (20) by GC
+2019-12-26T06:24:53.680Z - normal: Simulator: Destroy WebGLBuffer (1) by GC
+2019-12-26T06:24:53.683Z - normal: Simulator: Destroy WebGLTexture (10) by GC
+2019-12-26T06:24:53.683Z - normal: Simulator: Destroy WebGLBuffer (6) by GC
+2019-12-26T06:24:53.683Z - normal: Simulator: Destroy WebGLTexture (9) by GC
+2019-12-26T06:24:53.684Z - normal: Simulator: GC begin ..., (js->native map) size: 0, all objects: 0
+2019-12-26T06:24:53.713Z - normal: Simulator: GC end ..., (js->native map) size: 0, all objects: 0
+2019-12-26T06:24:53.741Z - normal: Simulator: ScriptEngine::cleanup end ...
+2019-12-26T06:24:53.817Z - normal: Simulator: V/AudioCache (136): ~AudioCache(id=2), delete buffer: 2430
+2019-12-26T06:24:53.818Z - normal: Simulator: V/AudioCache (136): ~AudioCache(id=1), delete buffer: 2425
+2019-12-26T13:18:03.644Z - normal: Start building with options : {
+  "actualPlatform": "web-mobile",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "baidugame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "testappid",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "buildPath": "/Users/aaron/Documents/doc/cocos2/start_project/build",
+  "debug": false,
+  "dest": "/Users/aaron/Documents/doc/cocos2/start_project/build/web-mobile",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "Geom Utils",
+    "3D",
+    "3D Primitive"
+  ],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.start_project",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "034acc1a-c6e3-41e0-837a-8e5a8eb03a2b"
+  ],
+  "sourceMaps": false,
+  "startScene": "034acc1a-c6e3-41e0-837a-8e5a8eb03a2b",
+  "template": "link",
+  "title": "start_project",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "separate_engine": false,
+    "subContext": ""
+  },
+  "xxteaKey": "fed9417a-144c-48",
+  "zipCompressJs": true,
+  "project": "/Users/aaron/Documents/doc/cocos2/start_project",
+  "projectName": "start_project",
+  "debugBuildWorker": false
+}
+2019-12-26T13:18:03.694Z - normal: Building /Users/aaron/Documents/doc/cocos2/start_project
+2019-12-26T13:18:03.694Z - normal: Destination /Users/aaron/Documents/doc/cocos2/start_project/build/web-mobile
+2019-12-26T13:18:04.105Z - normal: Delete /Users/aaron/Documents/doc/cocos2/start_project/build/web-mobile/subpackages/**/*,/Users/aaron/Documents/doc/cocos2/start_project/build/web-mobile/**/*
+2019-12-26T13:19:47.661Z - normal: Start building assets
+2019-12-26T13:19:47.676Z - normal: Start spawn build-worker
+2019-12-26T13:19:49.284Z - normal: Finish spawn build-worker
+2019-12-26T13:19:49.284Z - normal: Start init build-worker
+2019-12-26T13:19:54.727Z - normal: Finish init build-worker
+2019-12-26T13:19:54.728Z - normal: Start build-assets in worker
+2019-12-26T13:19:57.448Z - normal: Finish build-assets in worker
+2019-12-26T13:19:57.455Z - normal: Finish building assets
+2019-12-26T13:19:57.474Z - normal: Start building plugin scripts
+2019-12-26T13:19:57.531Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2019-12-26T13:19:57.542Z - normal: Generating html from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2019-12-26T13:19:57.565Z - normal: Built to "/Users/aaron/Documents/doc/cocos2/start_project/build/web-mobile" successfully

@@ -1,0 +1,155 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "score_pop",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.8,
+  "sample": 25,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "score": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0,
+                0
+              ],
+              "curve": [
+                0.7489942528735631,
+                0.12758620689655176,
+                0.2581896551724138,
+                0.9981321839080459
+              ]
+            },
+            {
+              "frame": 0.28,
+              "value": [
+                0,
+                92,
+                0
+              ]
+            },
+            {
+              "frame": 0.6,
+              "value": [
+                0,
+                92,
+                0
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.6,
+              "value": 255
+            },
+            {
+              "frame": 0.76,
+              "value": 51
+            },
+            {
+              "frame": 0.8,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "pop": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.32,
+              "value": 255
+            },
+            {
+              "frame": 0.4,
+              "value": 0
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 0.08,
+              "value": 1.5
+            },
+            {
+              "frame": 0.2,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 0.08,
+              "value": 1.5
+            },
+            {
+              "frame": 0.2,
+              "value": 1
+            }
+          ]
+        },
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0.08,
+                "value": {
+                  "__uuid__": "a50f1529-b96c-4a0f-8580-91f863fd1fb6"
+                }
+              },
+              {
+                "frame": 0.12,
+                "value": {
+                  "__uuid__": "15f5f409-d160-4284-8e34-12e41136e2a2"
+                }
+              },
+              {
+                "frame": 0.16,
+                "value": {
+                  "__uuid__": "006501e4-c9ab-4d07-8238-039ac0497303"
+                }
+              },
+              {
+                "frame": 0.2,
+                "value": {
+                  "__uuid__": "b2593f64-3c07-4bbd-bce6-1ac6edb3cb8c"
+                }
+              },
+              {
+                "frame": 0.24,
+                "value": {
+                  "__uuid__": "f8695c60-5a7d-4a64-940d-a870f01d491c"
+                }
+              },
+              {
+                "frame": 0.28,
+                "value": {
+                  "__uuid__": "fe12f6de-ae64-4a7c-817b-56136e674785"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0.8,
+      "func": "despawn",
+      "params": []
+    }
+  ]
+}
